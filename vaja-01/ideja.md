@@ -1,24 +1,43 @@
-# Naziv aplikacije
-Vulkan Smrekovec - Potovanje v preteklost
+#Naziv aplikacije 
 
-## Tip aplikacije
-VR
+Delovni naslov: VR Govor in Sestanek 
 
-## Problem ali potreba
-Obiskovalci Smrekovca danes vidijo predvsem gozdnato gorsko pokrajino, vendar si zelo težko predstavljajo, da je bilo to območje pred milijoni let aktiven vulkan. Manjka interaktivna, zanimiva in vizualna predstavitev geološke preteklosti območja, ki bi ljudem na razumljiv način približala njegov nastanek in pomen.
+#Tip aplikacije 
 
-## Ciljna skupina
-Turisti in pohodniki, ki nameravajo obiskati Smrekovec,
-Učenci, dijaki (geografija, naravoslovje, zgodovina Zemlje),
-Ljubitelji narave, geologije, dinozavrov.
+#VR (Virtual Reality) 
 
-## Primer uporabe
-Uporabnik si doma, v šoli ali v turističnem centru nadene VR očala in vstopi v virtualni svet Smrekovca pred milijoni let. Okoli sebe vidi aktiven vulkan, lavo, pragozd in prazgodinsko okolje. Skozi izkušnjo ga vodi animiran dinozaver, ki govori o vulkanu, razlaga nastanek kamnin, spremembe pokrajine skozi čas ter pove, kako se je območje razvilo v današnjo podobo. Po VR izkušnji uporabnik Smrekovec obišče tudi v resničnem svetu z boljšim razumevanjem prostora.
+#Problem ali potreba 
 
-## Osnovne funkcionalnosti
-3D VR rekonstrukcija Smrekovca v času aktivnega vulkana,
-Animiran dinozaver kot virtualni vodič,
-Izobraževalne razlage o vulkanih, geologiji in zgodovini območja,
+Pomanjkanje varnega in dostopnega okolja za vajo javnega nastopanja in vodenja poslovnih sestankov ter pomanjkanje povratne informacije in zapisa izvedenih seans. 
 
-## Izbrana platforma
-Unreal Engine
+#Ciljna skupina 
+
+Študenti in zaposleni, ki želijo izboljšati predstavitvene veščine 
+
+Ljudje, ki prakticirajo poslovne sestanke in pitch-e 
+
+#Primer uporabe (use case) 
+
+Uporabnik izbere eno od dveh osnovnih situacij: javni nastop ali poslovni sestanek. V VR pripravi kratek govor ali točke sestanka, nato izvaja vajo pred virtualno publiko ali sodelavci. Po seji prejme preprost pregled in transkript govora. 
+
+#Osnovna funkcionalnost 
+
+Dva scenarija: javni nastop in poslovni sestanki 
+
+Preprost izbor velikosti in vedenja publike/sodelavcev (majhna/velika, mirna/aktivna) 
+
+Snemanje govora med sejo 
+
+Whisper funkcionalnost: poslušanje in avtomatska transkripcija govora (v realnem času ali po seji) 
+
+Prikaz transkripta po seji in možnost shranjevanja/izvoza transkripta 
+
+Osnovne metrike: trajanje govora, število dolgotrajnih tišin, hitrost govora (osnovna vrednost) 
+
+Enostaven VR UI in kratek tutorijal za začetek 
+
+#Izbrana platforma 
+
+Meta Quest (standalone VR) 
+
+ 

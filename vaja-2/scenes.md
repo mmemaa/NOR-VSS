@@ -1,6 +1,6 @@
 Scena 1: Mirujoči vulkan – prazgodinski Smrekovec
 Opis:
-Uporabnik stoji na razgledni platformi nad vulkanom Smrekovec v prazgodovini, tik pred izbruhom. Vulkan je še mirujoč, iz kraterja se rahlo kadi, okolico pa obdaja pragozd. V daljavi so slišni naravni zvoki. Animiran dinozaver se pojavi ob uporabniku in predstavi lokacijo ter razloži, da je Smrekovec nekoč bil aktiven vulkan.
+Uporabnik stoji na razgledni platformi pod vulkanom Smrekovec v prazgodovini, tik pred izbruhom. Vulkan je še mirujoč, iz kraterja se rahlo kadi, okolico pa obdaja pragozd. V daljavi so slišni naravni zvoki. Animiran dinozaver se pojavi ob uporabniku in predstavi lokacijo ter razloži, da je Smrekovec nekoč bil aktiven vulkan.
 Uporabnik lahko prosto opazuje okolje in posluša razlago.
 
 Scena 2: Izbruh vulkana – aktivni Smrekovec
